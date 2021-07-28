@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738686260459",
+    "firebase_url": "https://firestore-app-2ff0e.firebaseio.com",
+    "project_id": "firestore-app-2ff0e",
+    "storage_bucket": "firestore-app-2ff0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738686260459:android:af8a738923e908e98e1aae",
+        "android_client_info": {
+          "package_name": "com.pratik.firestore_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738686260459-la5qqamkvv20vdf1jl384ofka2876lpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50xAHkkFMv0uVvKGYVWFT-3RNfkscDEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738686260459-la5qqamkvv20vdf1jl384ofka2876lpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
